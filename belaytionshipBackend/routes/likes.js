@@ -29,7 +29,7 @@ router.get('/likes/:id', (req, res, next) => {
       if (!data){
         res.status(404).json({error: 'like not found'})
       }
-      res.status(200).json(data)
+      res.status(200).json(data)  
     })
 })
 
