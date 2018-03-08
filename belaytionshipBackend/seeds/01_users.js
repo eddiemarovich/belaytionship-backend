@@ -7,10 +7,10 @@ exports.seed = function(knex, Promise) {
     }, {
       id: 2,
       name: 'Nigel',
-      about: 'Psyched on earning how to lead climb.'
+      about: 'Psyched on learning how to lead climb.'
     }, {
       id: 3,
-      name: 'Ashly',
+      name: 'Ashley',
       about: 'Looking for a partner for Yosemite this spring.  I have a few big objectives in mind and would like to get out on weekends to see if we could make a good team.'
     }, {
       id: 4,
